@@ -4,7 +4,7 @@
 
 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.
 
-[![GitHub license](https://img.shields.io/github/license/estebanways/sword-vim.svg)](https://github.com/estebanways/sword-vim/blob/master/LICENSE) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/estebanways/sword-vim/graphs/commit-activity) [![Downloads](https://img.shields.io/github/downloads/estebanways/sword-vim/total.svg?maxAge=2592001)](https://github.com/estebanways/sword-vim/releases/)
+[![GitHub license](https://img.shields.io/github/license/estebantechdev/sword-vim.svg)](https://github.com/estebantechdev/sword-vim/blob/master/LICENSE) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/estebantechdev/sword-vim/graphs/commit-activity) [![Downloads](https://img.shields.io/github/downloads/estebantechdev/sword-vim/total.svg?maxAge=2592001)](https://github.com/estebantechdev/sword-vim/releases/)
 
 <img alt="sword-vim" src="./images/stash.jpg?raw=true" width="500" height="320" />
 
@@ -235,7 +235,7 @@ A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficie
 
 ## Contribute
 
-1. Fork it (https://github.com/estebanways/sword-vim/fork)
+1. Fork it (https://github.com/estebantechdev/sword-vim/fork)
 2. Create your feature branch (<kbd>git checkout -b my-new-feature</kbd>)
 3. Commit your changes (<kbd>git commit -am 'Add some feature'</kbd>)
 4. Push to the branch (<kbd>git push origin my-new-feature</kbd>)
@@ -245,4 +245,4 @@ A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficie
 
 Sword Vim is [MIT Licensed](./LICENSE).
 
-[estebanways]: https://github.com/estebanways
+[estebantechdev]: https://github.com/estebantechdev
